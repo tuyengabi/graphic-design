@@ -32,6 +32,7 @@
 
 * Option 08
 ![https://www.github.com/tuyengabi](./logoConverlience8.png)
+--------------------------
 
 
 ### Restaurant project: Lo Sfizio 
@@ -40,3 +41,19 @@
 
 * Option 02
 ![https://www.github.com/tuyengabi](./logoLosfizio2.png)
+
+* Option 03
+![https://www.github.com/tuyengabi](./logoLosfizio3.png)
+
+* Option 04
+![https://www.github.com/tuyengabi](./logoLosfizio4.png)
+
+* Option 05
+![https://www.github.com/tuyengabi](./logoLosfizio5.png)
+
+* Option 06
+![https://www.github.com/tuyengabi](./logoLosfizio6.png)
+
+* Option 07
+![https://www.github.com/tuyengabi](./logoLosfizio7.png)
+
