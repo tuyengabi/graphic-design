@@ -1,3 +1,5 @@
-# THE DESIGNS USING SOFTWARE (Inkscape , Photoshop , Illustrator)
-* Logos
-* Templates of wireframe
+# THE GRAPHIC DESIGNS AND THE PORTRAIT DRAWINGS (Inkscape , Photoshop , Illustrator)
+
+* Logos :
+* Maquettes :
+* Portraits :
