@@ -37,7 +37,7 @@
 
 
 * Option 03
-![https://www.github.com/tuyengabi](./logo-opencamp3.png)
+![https://www.github.com/tuyengabi](./logo-opencamp1.png)
 
 
 ### Designer Team project: Mc Art
