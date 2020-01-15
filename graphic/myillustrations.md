@@ -17,6 +17,21 @@
 -------------------------------------
 
 
+* Jack
+![https://www.github.com/tuyengabi](./Jcard.png)
+-------------------------------------
+
+
+* Joker
+![https://www.github.com/tuyengabi](./Jokercard.png)
+-------------------------------------
+
+
+* Ace
+![https://www.github.com/tuyengabi](./Acecard.png)
+-------------------------------------
+
+
 * The cards B and Jokers
 ![https://www.github.com/tuyengabi](./cardB.png)
 -------------------------------------
