@@ -2,6 +2,11 @@
 
 ### Wireframe first Option of site Centre Oasis
 ![https://www.github.com/tuyengabi](./CentreOasis1.png)
+![https://www.github.com/tuyengabi](./CentreOasis2.png)
+![https://www.github.com/tuyengabi](./CentreOasis3.png)
+![https://www.github.com/tuyengabi](./CentreOasis4.png)
+![https://www.github.com/tuyengabi](./CentreOasis5.png)
+![https://www.github.com/tuyengabi](./CentreOasis6.png)
 
 
 ### Flyer designer 
